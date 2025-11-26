@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+dependencies:
+  - pdbfixer   # installiert OpenMM und PDBFixer-Toolset für PDB-Bearbeitung

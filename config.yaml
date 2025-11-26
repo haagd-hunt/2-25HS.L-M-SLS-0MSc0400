@@ -1,0 +1,14 @@
+configfile: "config.yaml"
+
+complexes:
+  - 1a2k
+  - 1a2y
+  - 1aro
+  - 1avw
+  - 1b6c
+  - 1bth
+
+glowworms: 200
+steps: 100
+models: 10
+swarms: 1

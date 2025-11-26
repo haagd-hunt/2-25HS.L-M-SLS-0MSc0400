@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9    # Python-Version, LightDock läuft mit Python 3
+  - numpy
+  - scipy
+  - cython
+  - prody
+  - freesasa
+  - pip
+  - pip:
+      - lightdock
